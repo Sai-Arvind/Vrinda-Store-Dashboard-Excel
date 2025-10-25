@@ -114,7 +114,7 @@ To boost sales in 2023, Vrinda Store should:
 **A.Sai Arvind**  
 Data Analyst | Excel | Power BI | SQL | Python  
 📧 [saiarvind5081@gmail.com](mailto:saiarvind5081@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/sai-arvind-13bb921a0)  
+🔗 www.linkedin.com/in/sai-arvind-13bb921a0
 🔗 [GitHub](https://github.com/Sai-Arvind)
 
 ---
